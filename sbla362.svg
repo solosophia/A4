@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <defs> 
+        <clipPath id="cutout">
+            <rect x="0" y="0" width="93" height="150" />
+            <rect x="100" y="0" width="99.5" height="150" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#cutout)">
+        <ellipse stroke="black" fill="none" stroke-width="8" rx="71" ry="142.5" cy="150" cx="100" />
+        <rect fill="black" x="99.75" y="5" width="8" height="145" />
+       
+        <rect fill="black" x="62.5" y="90" width="28" height="8" />
+        <rect fill="black" x="100" y="90" width="65" height="8" />
+        <rect fill="black" x="25" y="142.5" width="65" height="8"/>
+ 
+       
+        <line stroke="black" x1="67"  y1="94" x2="88.5" y2="94"  stroke-width="8" stroke-linecap="round" />
+        <line stroke="black" x1="88.75"  y1="94" x2="88.75" y2="146"  stroke-width="8" stroke-linecap="round" />
+    </g>
+
+   
+</svg>
